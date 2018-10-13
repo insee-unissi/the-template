@@ -9,7 +9,7 @@ GitPitch<br>*The Template*
 The Fastest Way From Idea To Presentation.
 @snapend
 
----?image=assets/img/stormtroopers.jpg
+---?image=assets/security_background.jpg
 @title[Test]
 ### Hello World.
 
